@@ -1,3 +1,3 @@
-# techtogethernyc2021 🚀
+# The Old School : NYC's Old School Approach to Teaching 👩🏻‍🎓👩🏿‍🎓
 
-https://data.cityofnewyork.us/Education/NYC-Public-School-Indicators/29nk-6u2k
+The Old School is a hack created for [TechTogether New York 2021](https://newyork.techtogether.io). [Miracle Awonuga](https://github.com/mawonuga121) and [Gabriella Miesner](https://github.com/gmiesner) created data visualizations on pre-pandemic NYC Public School data, including information on the demographics of students, poverty levels in schools, and teachers. The data is sourced from [NYC Open Source Data](https://data.cityofnewyork.us/Education/NYC-Public-School-Indicators/29nk-6u2k) and the visualizations were created in Google Colab/Jupyter Notebook using Python, Plotly, and Pandas. 
